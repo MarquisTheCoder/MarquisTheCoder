@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+A Creative Full Stack Developer
+Contact me!
+rhiannon
+
+
+html5 css3bootstrap javascriptmysql javaspring 
 <!--
 **MarquisTheCoder/MarquisTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
