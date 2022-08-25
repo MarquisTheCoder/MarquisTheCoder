@@ -3,10 +3,6 @@
 
 <h2><span> 💻 </span>&nbsp;&nbsp;I'm An Intuitive Full Stack Developer</h2>
 
-
-### Connect with me:
-![Linkedin](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)
-
 <ul>
   
   <!--   ----------------------------------------------         -->
