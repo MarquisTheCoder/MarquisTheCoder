@@ -11,20 +11,16 @@
   
   <!--   ----------------------------------------------         -->
   
-  <li>
+  
   <a href="">
       <img class="img-icon" style="width: 80px; height: 80px;" 
      src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">
       </img>
     </a>
-  </li>
+  
 </ul>
 
-<style>
-  li{
-    list-style: none;
-  }
-</style>
+
 
 
 ### About me:
