@@ -8,9 +8,9 @@
   <!--   ----------------------------------------------         -->
   
   
-  <a href="">
+  <a href="https://twitter.com/MarquisCoder">
       <img class="img-icon" style="width: 80px; height: 80px;" 
-     src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">
+        src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">
       </img>
     </a>
   
