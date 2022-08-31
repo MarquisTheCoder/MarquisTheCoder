@@ -1,11 +1,7 @@
 
 <div align="center">
   <h1>
-    
-    Hello!
-    I'm Deshawn Marquis Williams
-    
-    
+    Deshawn Williams 
   </h1>
   <img style="width: 100vw; height: 20vh;"src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy-downsized.gif">
   
@@ -34,9 +30,21 @@
     In Methodology and habit.
     I'm looking to collaborate on anything..I love to learn new things.
 
-
  </div>
+ 
+ <table align="center">
+  <tr>
+    <th>General Stats</th>
+    <th>Language Stats</th>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MarquisTheCoder&theme=react&layout=compact">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquisTheCoder&theme=react&layout=compact">
+    </td>
+  <tr>
+  
+  </tr>
 
-General Stats | Language Stats
-:------------:|:--------------:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarquisTheCoder&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquisTheCoder&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </table>
