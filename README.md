@@ -1,7 +1,5 @@
 
 <div align="center">
-  <img style="width: 100vw; height: 15vh;"src="https://media.giphy.com/media/1BfRG8cK5SPOer97aK/giphy-downsized.gif">
-
   <h1>
     
     Hello!
@@ -9,9 +7,11 @@
     
     
   </h1>
+  <img style="width: 100vw; height: 20vh;"src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy-downsized.gif">
   
   
 </div>
+<br>
 <div align="center">
 
   <a href="https://twitter.com/MarquisCoder">
