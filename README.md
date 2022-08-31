@@ -1,6 +1,7 @@
 
 <div align="center">
-  
+  <img style="width: 100vw; height: 15vh;"src="https://media.giphy.com/media/1BfRG8cK5SPOer97aK/giphy-downsized.gif">
+
   <h1>
     
     Hello!
@@ -22,7 +23,6 @@
     <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
   
 </div>
-<img style="width: 100vw; height: 15vh;"src="https://media.giphy.com/media/1BfRG8cK5SPOer97aK/giphy-downsized.gif">
 
 <h2 align="center">About Me</h2>
 
