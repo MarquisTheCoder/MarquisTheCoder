@@ -1,7 +1,6 @@
 
 # Hello I'm Deshawn, (Marquis), Williams!
 
-## Intuitive Full Stack Developer 
 <ul>
   
   <!--   ----------------------------------------------         -->
@@ -21,7 +20,9 @@
     I'm an Extreme programmer
     In Methodology and habit
     I'm looking to collaborate on anything..I love to learn new things
-
+    
+    
+##
 General Stats | Language Stats
 :------------:|:--------------:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarquisTheCoder&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquisTheCoder&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
