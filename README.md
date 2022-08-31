@@ -3,7 +3,7 @@
   <h1>
     Deshawn Williams 
   </h1>
-  <img style="width: 100vw; height: 20vh;"src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy-downsized.gif">
+  <img style="width: 100vw; height: 10vh;"src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy-downsized.gif">
   
   
 </div>
