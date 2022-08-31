@@ -14,11 +14,11 @@
 </ul>
 
 ### About Me
-    I'm always on the move
-    I'm always striving to improve
-    I'm an Extreme programmer
-    In Methodology and habit
-    I'm looking to collaborate on anything..I love to learn new things
+    -I'm always on the move.
+    -I'm always striving to improve.
+    -I'm an Extreme programmer.
+    -In Methodology and habit.
+    -I'm looking to collaborate on anything..I love to learn new things.
     
     
 
