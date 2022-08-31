@@ -14,17 +14,17 @@
 </div>
 
 <h2 align="center">About Me</h2>
-<p align="center">
-  <ul style="text-align: center; list-style: none;">
-    <li>I'm always on the move.</li>
-    <li>I'm always striving to improve.</li>
-    <li>I'm an Extreme programmer.</li>
-    <li>In Methodology and habit.</li>
-    <li>I'm looking to collaborate on anything..I love to learn new things.</li>
-   </ul>
- </p>
-    
 
+<div align="center">
+
+    I'm always on the move. 
+    I'm always striving to improve.
+    I'm an Extreme programmer.
+    In Methodology and habit.
+    I'm looking to collaborate on anything..I love to learn new things.
+
+
+ </div>
 
 General Stats | Language Stats
 :------------:|:--------------:
