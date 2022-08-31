@@ -6,20 +6,23 @@
     Hello!
     I'm Deshawn Marquis Williams
     
+    
   </h1>
+  
+  
 </div>
 <div align="center">
+
   <a href="https://twitter.com/MarquisCoder">
       <img class="img-icon" style="width: 100px; height: 100px;" 
         src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">
-      </img>
-  </a>
+      </img></a>
+      
   <a href="https://www.linkedin.com/in/deshawn-w-a63333241/">
-    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
-  
-  </a>
+    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
   
 </div>
+<img style="width: 100vw;"src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <h2 align="center">About Me</h2>
 
