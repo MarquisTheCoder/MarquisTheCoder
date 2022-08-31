@@ -1,6 +1,6 @@
 
-# Hello, I'm Deshawn (Marquis) Williams!
-<ul>
+<div align="center"> <h1> Hello, I'm Deshawn (Marquis) Williams!</h1> </div>
+<div align="center">
   <a href="https://twitter.com/MarquisCoder">
       <img class="img-icon" style="width: 100px; height: 100px;" 
         src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">
@@ -11,16 +11,18 @@
   
   </a>
   
-</ul>
+</div>
 
-### About Me
+<h2 align="center">About Me</h2>
+<p align="center">
     -I'm always on the move.
     -I'm always striving to improve.
     -I'm an Extreme programmer.
     -In Methodology and habit.
     -I'm looking to collaborate on anything..I love to learn new things.
+ </p>
     
-    
+
 
 General Stats | Language Stats
 :------------:|:--------------:
