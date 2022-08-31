@@ -22,7 +22,7 @@
     <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
   
 </div>
-<img style="width: 100vw;"src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img style="width: 100vw; height: 10vh;"src="https://media.giphy.com/media/1BfRG8cK5SPOer97aK/giphy-downsized.gif">
 
 <h2 align="center">About Me</h2>
 
