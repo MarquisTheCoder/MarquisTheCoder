@@ -3,7 +3,7 @@
   <h1>
     Deshawn Williams 
   </h1>
-  <img style="width: 100vw; height: 10vh;"src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy-downsized.gif">
+  <img style="width: 100vw; height: 4em;"src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy-downsized.gif">
   
   
 </div>
@@ -11,12 +11,12 @@
 <div align="center">
 
   <a href="https://twitter.com/MarquisCoder">
-      <img class="img-icon" style="width: 100px; height: 100px;" 
+      <img class="img-icon" style="width: 5em; height: 5em;" 
         src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">
       </img></a>
       
   <a href="https://www.linkedin.com/in/deshawn-w-a63333241/">
-    <img style="width: 100px; height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
+    <img style="width: 5em; height: 5em" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
   
 </div>
 
