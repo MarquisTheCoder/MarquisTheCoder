@@ -13,7 +13,7 @@
         src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">
       </img></a>
       
-  <a href="https://www.linkedin.com/in/deshawn-w-a63333241/">
+  <a href="https://www.linkedin.com/in/marquis-w/">
     <img style="width: 5em; height: 5em" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
   
 </div>
