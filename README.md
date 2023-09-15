@@ -6,7 +6,7 @@
 
 <p align=left>
 <!-- <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' /> -->
-<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=MarquisTheCoder&count_private=true&show_icons=true&theme=dracula' />
-<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=MarquisTheCoder&theme=dracula' />
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=MarquisTheCoder&count_private=true&show_icons=true&theme=midnight-purple' />
+<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=MarquisTheCoder&theme=midnight-purple' />
 </p>
-<img src="https://gifdb.com/images/thumbnail/purple-sky-itachi-uchiha-q6q3tohasoyywp3i.gif"/>
+<img width="100%" src="https://gifdb.com/images/thumbnail/purple-sky-itachi-uchiha-q6q3tohasoyywp3i.gif"/>
