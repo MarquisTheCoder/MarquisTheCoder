@@ -9,3 +9,4 @@
 <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=MarquisTheCoder&count_private=true&show_icons=true&theme=dracula' />
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=MarquisTheCoder&theme=dracula' />
 </p>
+<img src="https://gifdb.com/images/thumbnail/purple-sky-itachi-uchiha-q6q3tohasoyywp3i.gif"/>
