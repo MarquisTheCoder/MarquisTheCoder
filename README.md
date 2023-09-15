@@ -1,4 +1,4 @@
-
+<div style="margin: 0;">
 <p align='center'>
 <!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=MarquisTheCoder&theme=dracula&column=11'>
@@ -9,4 +9,5 @@
 <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=MarquisTheCoder&count_private=true&show_icons=true&theme=midnight-purple' />
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=MarquisTheCoder&theme=midnight-purple' />
 </p>
-<img width="100%" src="https://gifdb.com/images/thumbnail/purple-sky-itachi-uchiha-q6q3tohasoyywp3i.gif"/>
+
+<div>
