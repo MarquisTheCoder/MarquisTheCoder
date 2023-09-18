@@ -4,9 +4,9 @@
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=MarquisTheCoder&theme=dracula&column=11'>
 </p>
 
- 
-[<img width="1424" alt="tv_1" src="https://github.com/MarquisTheCoder/MarquisTheCoder/assets/104405433/a14d2993-1349-452a-a42b-882097827a2e">]("https://marquisthecoder.us")
-
+ <a href="https://marquisthecoder.us/" target="_blank">
+  <img src="https://github.com/MarquisTheCoder/MarquisTheCoder/blob/main/tv_1.png"/>
+ </a>
 
 <div style="margin: 0;">
 <p align='center'>
