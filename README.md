@@ -1,8 +1,9 @@
 
 
 <a href="https://marquisthecoder.us/">
-  <img src="https://github.com/MarquisTheCoder/MarquisTheCoder/assets/104405433/f5d871e3-1fd3-4902-99a0-bdd5ab0bccf0" />
-  
+ 
+  <img width="1424" alt="tv_1" src="https://github.com/MarquisTheCoder/MarquisTheCoder/assets/104405433/a14d2993-1349-452a-a42b-882097827a2e">
+
 
 </a>
 
