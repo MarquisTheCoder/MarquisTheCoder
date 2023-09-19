@@ -10,6 +10,8 @@
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=MarquisTheCoder&theme=dracula&column=11'>
 </p>
 
+ [![Ivo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarquisTheCoder&bg_color=0d1117&color=708090&line=E08CF3&point=ffffff&area=true&hide_border=true)](https://github.com/ip681/)
+
 
 
 <div>
