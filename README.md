@@ -1,8 +1,5 @@
 
 
- <a href="https://marquisthecoder.us/" target="_blank">
-  <img src="https://github.com/MarquisTheCoder/MarquisTheCoder/blob/main/tv_1.png"/>
- </a>
 
 <div style="margin: 0;">
  
